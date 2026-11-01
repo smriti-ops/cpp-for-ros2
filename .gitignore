@@ -1,0 +1,18 @@
+# Private notes and early practice (kept local only)
+cpp_practice/
+cpp_*.md
+
+# Compiled output
+*.exe
+*.o
+*.obj
+*.out
+
+# ROS 2 / colcon build folders
+build/
+install/
+log/
+
+# Editor files
+.vscode/
+.idea/
